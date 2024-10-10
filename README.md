@@ -7,6 +7,8 @@ A infraestrutura foi provisionada na AWS, utilizando uma instância Ubuntu do [E
 
 O processo de deploy da aplicação é realizado automaticamente com o GitHub Actions, integrando o código do repositório e realizando as operações de build e deployment na AWS.
 
+Link de vídeo explicativo do processo no Youtube [Aqui](https://youtu.be/74djzDIFNjU)
+
 # Documentação de Configuração
 
 ## 1. Configuração do AWS
